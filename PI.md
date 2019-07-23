@@ -17,17 +17,17 @@ bigimg: /img/Wuzhen2.png
   * _合作导师_: [高福荣](https://cbe.ust.hk/kefgao.html)教授
   
 * 访问学者 _(2015.2-2015.5)_
-  * **斯图加特大学**
+  * **德国斯图加特大学**
   * 系统理论与自动控制研究所
   * _合作导师_: [Frank Allgower](https://www.ist.uni-stuttgart.de/institute/team/Allgoewer-00006/)教授, [Christian Ebenbauer](https://www.ist.uni-stuttgart.de/institute/team/Ebenbauer-00002/)教授
   
 * 博士后 _(2016-2017)_
-  * **哈佛大学**
+  * **美国哈佛大学**
   * 工程与应用科学学院
   * _合作导师_: Francis J. Doyle III教授
   
 * 博士后 _(2017-2019)_
-  * **爱丁堡大学**
+  * **英国爱丁堡大学**
   * 生物科学学院
   * _合作导师_: [Ramon Grima](http://grimagroup.bio.ed.ac.uk/ramongrima.html)教授, [Diego A. Ozaryun](http://homepages.inf.ed.ac.uk/doyarzun/)教授, [Peter Swain](http://swainlab.bio.ed.ac.uk)教授
   
@@ -67,8 +67,8 @@ bigimg: /img/Wuzhen2.png
 
 
 ### 受邀讲座
-  * 滑铁卢大学化学工程系**tenure-track**入围讲座, 2019
-  * 英属哥伦比亚大学化学与生物工程学系**tenure-track**入围讲座, 2018
+  * 加拿大滑铁卢大学化学工程系**tenure-track**入围讲座, 2019
+  * 加拿大英属哥伦比亚大学化学与生物工程学系**tenure-track**入围讲座, 2018
   * 南京工业大学电气与自动化学院, 2018
   * 爱丁堡大学数学生物学系列讲座, 2017
   * 牛津大学Stephen Duncan教授组, 2017
