@@ -4,7 +4,7 @@ title: "Publication"
 bigimg: /img/Wuzhen4.png
 ---
 ## 期刊论文
-(通讯作者 <sup>*</sup> )
+(通讯作者用 <sup>*</sup> 标记 )
 
 ### 在投论文
 * **Cao, Z.**, Filatova, T., Ozaryun, D., Grima, R. (2019). Exact solution of a stochastic model of multi-scale transcriptional bursting. _(Submitted)_.
