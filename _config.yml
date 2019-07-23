@@ -2,7 +2,6 @@
 
 # Name of website
 title: 生物控制实验室
-title-img: "/img/ECUST.png"
 
 # Short description of your site
 description: 曹志兴
@@ -37,7 +36,7 @@ avatar: "/img/Edward.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "/img/ECUST.png"
 
 # --- Background colour/image options --- #
 
