@@ -1,78 +1,76 @@
 ---
 layout: page
-title: "Curriculum Vitae"
-subtitle: "Hometown: Tongxiang, Zhejiang"
+title: "个人简历"
 bigimg: /img/Wuzhen2.png
 ---
-## Zhixing Cao (Edward), Professor
 ## 曹志兴, 教授, 博士生导师 (1990年1月，浙江桐乡)
 
 ### Background
-* BEng _(2008-2012)_
-  * **Zhejiang University (浙江大学本科)**
-  * Department of Control Science and Engineering
-  * _GPA: 3.95/4, Rank: 2/118_
+* 本科 _(2008-2012)_
+  * **浙江大学**
+  * 控制科学与工程学系
+  * _绩点: 3.95/4, 排名: 2/118_
   
-* PhD _(2012-2016)_
-  * **Hong Kong University of Science and Technology (香港科技大学博士)**
-  * Department of Chemical and Biomolecular Engineering
-  * _Advised by_ Professor [Furong Gao](https://cbe.ust.hk/kefgao.html)
+* 博士 _(2012-2016)_
+  * **香港科技大学博士**
+  * 化学与生物分子工程学系
+  * _合作导师_: [高福荣](https://cbe.ust.hk/kefgao.html)教授
   
-* Visitor _(2015.2-2015.5)_
-  * **University of Stuttgart (斯图加特大学访问学者)**
-  * Institute of Systems Theory and Automatic Control
-  * _Hosted by_: Professor [Frank Allgower](https://www.ist.uni-stuttgart.de/institute/team/Allgoewer-00006/), Professor [Christian Ebenbauer](https://www.ist.uni-stuttgart.de/institute/team/Ebenbauer-00002/)
+* 访问学者 _(2015.2-2015.5)_
+  * **斯图加特大学**
+  * 系统理论与自动控制研究所
+  * _合作导师_: [Frank Allgower](https://www.ist.uni-stuttgart.de/institute/team/Allgoewer-00006/)教授, [Christian Ebenbauer](https://www.ist.uni-stuttgart.de/institute/team/Ebenbauer-00002/)教授
   
-* Postdoctoral Fellow _(2016-2017)_
-  * **Harvard University (哈佛大学博士后)**
-  * John A. Paulson School of Engineering and Applied Sciences
-  * _Hosted by_: Professor Francis J. Doyle III
+* 博士后 _(2016-2017)_
+  * **哈佛大学**
+  * 工程与应用科学学院
+  * _合作导师_: Francis J. Doyle III教授
   
-* Postdoctoral Fellow(博士后) _(2017-2019)_
-  * **The University of Edinburgh (爱丁堡大学博士后)**
-  * School of Biological Sciences
-  * _Hosted by_: Professor [Ramon Grima](http://grimagroup.bio.ed.ac.uk/ramongrima.html), Dr. [Diego A. Ozaryun](http://homepages.inf.ed.ac.uk/doyarzun/), Professor [Peter Swain](http://swainlab.bio.ed.ac.uk)
+* 博士后 _(2017-2019)_
+  * **爱丁堡大学**
+  * 生物科学学院
+  * _合作导师_: [Ramon Grima](http://grimagroup.bio.ed.ac.uk/ramongrima.html)教授, [Diego A. Ozaryun](http://homepages.inf.ed.ac.uk/doyarzun/)教授, [Peter Swain](http://swainlab.bio.ed.ac.uk)教授
   
-* Professor & PI _(2019-present)_
-  * **East China Univeristy of Science and Technology (华东理工大学教授)**
-  * College of Information Science and Engineering
+* 教授、博士生导师 _(2019-present)_
+  * **华东理工大学**
+  * 信息科学与工程学院
 
 
 
-### Awards
-* BEng. period:
-  * National Scholarship of Ministry of Education of China
+### 荣誉奖励
+* 本科:
+  * 国家奖学金
  
-* PhD period:
-  * Hong Kong PhD Fellowship
-  * Oversea Research Award
-  * Chan & Wong Best Postgraduate Award _(Award committee chairman: Professor [Guohua Chen](https://www.polyu.edu.hk/ppoffice/president/avprsghc.html) FAIChE)_
+* 博士:
+  * 香港政府博士奖学金
+  * 海外研究奖学金
+  * Chan & Wong 优秀研究生奖 _(颁奖人: [Guohua Chen](https://www.polyu.edu.hk/ppoffice/president/avprsghc.html)教授 FAIChE)_
  
-* Postdoctoral period:
-  * Outstanding Reviewer of Journal:
+* 博士后:
+  * 杰出审稿人:
     * _ISA Transactions_
     * _Chemometrics and Intelligent Laboratory Systems_
     * _Journal of Process Control_
     * _Industrial & Engineering Chemistry Research_
-  * Seal of Excellence, H2020 Marie Sklodowska Curie Actions
+  * 玛丽居里优秀项目书奖
 
-* PI period:
-  * **1000 Plan Professorship for Young Talents (中组部青年千人计划)**
-
-
-
-### Professional Service
-  * Member of Society of Plastics Engineers
-  * Guest Editor of _Journal of Control Science and Engineering_
-  * Reviewer of _IEEE TAC, IEEE TIE, IEEE TBME, IEEE TCST, J Royal Soc Interface, J Process Contr, Ind Eng Chem Res, ISA T, Chemom Intell Lab Syst, Comput Chem Eng, Can J Chem Eng, Math Biosci, Algorithms, Processes, Sensors and Conferences CDC, ACC, IFAC WC._
+* 教授:
+  * **中组部青年千人计划**
 
 
 
-### Invited Talks
-  * **Tenure-track talk** at Department of Chemical Engineering, University of Waterloo, 2019
-  * **Tenure-track talk** at Department of Chemical and Biological Engineering, Univeristy of British Columbia, 2018
-  * College of Electrical Engineering and Control Science, Nanjing University of Technology, 2018
-  * Mathematical Biology Seminars, Univeristy of Edinburgh, 2017
-  * Stephen Duncan's Group, Univeristy of Oxford, 2017
-  * Departmental Seminar, CBME, Hong Kong Univeristy of Science and Technology, 2017
-  * Johan Paulsson's Group, Harvard Medical School, 2017
+### 学术兼职
+  * 塑料工程师协会会员
+  * _Journal of Control Science and Engineering_ 客座编委
+  * 担任审稿人于 _IEEE TAC, IEEE TIE, IEEE TBME, IEEE TCST, J Royal Soc Interface, J Process Contr, Ind Eng Chem Res, ISA T, Chemom Intell Lab Syst, Comput Chem Eng, Can J Chem Eng, Math Biosci, Algorithms, Processes, Sensors and Conferences CDC, ACC, IFAC WC._
+
+
+
+### 受邀讲座
+  * 滑铁卢大学化学工程系**tenure-track**入围讲座, 2019
+  * 英属哥伦比亚大学化学与生物工程学系**tenure-track**入围讲座, 2018
+  * 南京工业大学电气与自动化学院, 2018
+  * 爱丁堡大学数学生物学系列讲座, 2017
+  * 牛津大学Stephen Duncan组, 2017
+  * 香港科技大学化学与生物分子工程系讲座, 2017
+  * 哈佛大学医学院Johan Paulsson组 2017
