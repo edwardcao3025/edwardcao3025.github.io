@@ -1,7 +1,8 @@
 # --- General options --- #
 
 # Name of website
-title: ![](/img/ECUST.png)生物控制实验室
+title: 生物控制实验室
+title-img: "/img/ECUST.png"
 
 # Short description of your site
 description: 曹志兴
