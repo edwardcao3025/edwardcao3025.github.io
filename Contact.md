@@ -1,24 +1,20 @@
 ---
 layout: page
-title: "Contact"
+title: "联系我们"
 bigimg: /img/Wuzhen3.png
 ---
-### Address  
-Key Laboratory of Advanced Control and Optimization for Chemical Processes, Ministry of Education  
-East China University of Science and Technology  
-130 Meilong Road, Shanghai, 200237, PR China
-
+### 地址  
 化工过程先进控制和优化技术教育部重点实验室  
 华东理工大学信息科学与工程学院  
 上海市梅陇路130号，200237
 
 ![](/img/map.png)
 
-### Email  
+### 电子邮件 
 zcao (at) ecust (dot) edu (dot) cn
 
 
 
-##### Photograph (of Wuzhen, Tongxiang) by courtesy of Y. Shi and R. Shen
+##### 本站照片由 Y. Shi 和 R. Shen 提供
 ![](/img/hometown.png)
 
