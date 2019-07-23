@@ -71,6 +71,6 @@ bigimg: /img/Wuzhen2.png
   * 英属哥伦比亚大学化学与生物工程学系**tenure-track**入围讲座, 2018
   * 南京工业大学电气与自动化学院, 2018
   * 爱丁堡大学数学生物学系列讲座, 2017
-  * 牛津大学Stephen Duncan组, 2017
+  * 牛津大学Stephen Duncan教授组, 2017
   * 香港科技大学化学与生物分子工程系讲座, 2017
-  * 哈佛大学医学院Johan Paulsson组, 2017
+  * 哈佛大学医学院Johan Paulsson教授组, 2017
