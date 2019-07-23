@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Project"
+title: "研究项目"
 bigimg: /img/Wuzhen6.png
 ---
 ### 定量探究mRNA聚合酶对于转录的动态影响
