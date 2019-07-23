@@ -4,7 +4,7 @@
 title: 生物控制实验室
 
 # Short description of your site
-description: Edward Cao
+description: 曹志兴
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,6 +20,7 @@ description: Edward Cao
 
 # List of links in the navigation bar
 navbar-links:
+  Eng: "https://edwardcao3026.github.io"
   个人简介: "PI"
   研究方向: 
     - 研究项目: "Project"
