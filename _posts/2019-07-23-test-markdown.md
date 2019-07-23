@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Postoc Opportunities
-subtitle: Joint with Professor Ramon Grima, the Univeristy of Edinburgh
+title: 联合培养博士后招募
+subtitle: 合作导师：英国爱丁堡大学Ramon Grima教授
 tags: [Postdoc,Vancancy]
 comments: true
 ---
