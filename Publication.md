@@ -3,10 +3,10 @@ layout: page
 title: "Publication"
 bigimg: /img/Wuzhen4.png
 ---
-## Peer-reviewed Journal Publication
-(Corresponding authorship is denoted by <sup>*</sup> )
+## 期刊论文
+(通讯作者 <sup>*</sup> )
 
-### Submitted
+### 在投论文
 * **Cao, Z.**, Filatova, T., Ozaryun, D., Grima, R. (2019). Exact solution of a stochastic model of multi-scale transcriptional bursting. _(Submitted)_.
 
 * **Cao, Z.**, Grima, R. (2019). Analytical distributions for detailed models of stochastic gene expression in eukaryotic cells. _(Submitted)_.
