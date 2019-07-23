@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Publication"
+title: "发表论文"
 bigimg: /img/Wuzhen4.png
 ---
 ## 期刊论文
