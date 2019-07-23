@@ -44,7 +44,7 @@ bigimg: /img/Wuzhen2.png
 * 博士:
   * 香港政府博士奖学金
   * 海外研究奖学金
-  * Chan & Wong 优秀研究生奖 _(颁奖人: [Guohua Chen](https://www.polyu.edu.hk/ppoffice/president/avprsghc.html)教授 FAIChE)_
+  * Chan & Wong 优秀研究生奖 _(颁奖人: [陈国华](https://www.polyu.edu.hk/ppoffice/president/avprsghc.html)教授 FAIChE)_
  
 * 博士后:
   * 杰出审稿人:
