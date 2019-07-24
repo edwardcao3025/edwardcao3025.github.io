@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "合作伙伴"
+title: "科研合作"
 bigimg: /img/Wuzhen5.png
 ---
 ### 中国
