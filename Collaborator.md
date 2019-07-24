@@ -19,6 +19,6 @@ bigimg: /img/Wuzhen5.png
 ### 美国
 * [Francis J. Doyle](https://www.seas.harvard.edu/directory/frankdoyle)教授, 哈佛大学
 * [Shen Zeng](https://engineering.wustl.edu/Profiles/Pages/Shen-Zeng.aspx)教授, 圣路易斯华盛顿大学
-* [Suyang Lin](https://cims.nyu.edu/~sling/)教授, 纽约大学
+* [Shuyang Lin](https://cims.nyu.edu/~sling/)教授, 纽约大学
 
 _(名单尚未完整，敬请见谅 ...)_
