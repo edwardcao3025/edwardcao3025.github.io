@@ -25,9 +25,9 @@ navbar-links:
   研究方向: 
     - 研究项目: "Project"
     - 发表论文: "Publication"
-  人员组成: 
+  合作伙伴:  "Collaborator" 
 #    - Member: "Member"
-    - 合作伙伴: "Collaborator"
+#    - 合作伙伴: "Collaborator"
   联系我们: "Contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
