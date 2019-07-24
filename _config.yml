@@ -21,7 +21,7 @@ description: 曹志兴
 # List of links in the navigation bar
 navbar-links:
   Eng: "https://edwardcao3026.github.io"
-  个人简介: "PI"
+  个人简历: "PI"
   研究方向: 
     - 研究项目: "Project"
     - 发表论文: "Publication"
