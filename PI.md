@@ -29,7 +29,7 @@ bigimg: /img/Wuzhen2.png
 * 博士后 _(2017-2019)_
   * **英国爱丁堡大学**
   * 生物科学学院
-  * _合作导师_: [Ramon Grima](http://grimagroup.bio.ed.ac.uk/ramongrima.html)教授, [Diego A. Ozaryun](http://homepages.inf.ed.ac.uk/doyarzun/)教授, [Peter Swain](http://swainlab.bio.ed.ac.uk)教授
+  * _合作导师_: [Ramon Grima](http://grimagroup.bio.ed.ac.uk/ramongrima.html)教授, [Diego A. Oyarzun](http://homepages.inf.ed.ac.uk/doyarzun/)教授, [Peter Swain](http://swainlab.bio.ed.ac.uk)教授
   
 * 教授、博士生导师 _(2019-present)_
   * **华东理工大学**
