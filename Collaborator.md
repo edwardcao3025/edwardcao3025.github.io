@@ -11,7 +11,7 @@ bigimg: /img/Wuzhen5.png
 
 ### 欧洲
 * [Ramon Grima](http://grimagroup.bio.ed.ac.uk/ramongrima.html)教授, 英国爱丁堡大学
-* [Diego A. Ozaryun](http://homepages.inf.ed.ac.uk/doyarzun/)教授, 英国爱丁堡大学
+* [Diego A. Oyarzun](http://homepages.inf.ed.ac.uk/doyarzun/)教授, 英国爱丁堡大学
 * [Peter Swain](http://swainlab.bio.ed.ac.uk)教授, 英国爱丁堡大学
 * [Frank Allgower](https://www.ist.uni-stuttgart.de/institute/team/Allgoewer-00006/)教授, 德国斯图加特大学
 * [Christian Ebenbauer](https://www.ist.uni-stuttgart.de/institute/team/Ebenbauer-00002/)教授, 德国斯图加特大学
