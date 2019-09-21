@@ -15,6 +15,6 @@ zcao (at) ecust (dot) edu (dot) cn
 
 
 
-##### 本站照片由 Y. Shi 和 R. Shen 提供
+##### 本站照片由 R. Shen 提供
 ![](/img/hometown.png)
 
