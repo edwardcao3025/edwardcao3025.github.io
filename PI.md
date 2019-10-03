@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "个人简历"
-bigimg: /img/Wuzhen2.png
+bigimg: /img/Wuzhen1.png
 ---
 ## 曹志兴, 教授, 博士生导师 (1990年1月，浙江桐乡)
 
