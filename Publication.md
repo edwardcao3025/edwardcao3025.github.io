@@ -13,14 +13,14 @@ bigimg: /img/Wuzhen4.png
 
 
 ### 2020
-* * Holehouse J., **Cao, Z.**, Grima, R. (2019). Stochastic feedback loops in gene regulatory networks. _Biophysical Journal_. (Accepted)
+* Holehouse J., **Cao, Z.**, Grima, R. (2019). Stochastic feedback loops in gene regulatory networks. _Biophysical Journal_. (Accepted)
 
 * **Cao, Z.**, Grima, R. (2020). [Analytical distributions for detailed models of stochastic gene expression in eukaryotic cells](https://www.pnas.org/content/early/2020/02/11/1910888117). _Proceedings of the National Academy of Science of the United States of America_.
 
 
 ### 2019
 
-* Lu, J., **Cao, Z.**, Zhao, C., Gao, F. (2019). [110th Anniversary: An Overview on Learning-Based Model Predictive Control for Batch Processes](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.9b02370). _Industrial & Engineering Chemistry Research_, 58(37), 17164-17173.
+* Lu, J., **Cao, Z.<sup>*</sup>**, Zhao, C., Gao, F. (2019). [110th Anniversary: An Overview on Learning-Based Model Predictive Control for Batch Processes](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.9b02370). _Industrial & Engineering Chemistry Research_, 58(37), 17164-17173.
 
 * Lu, J., **Cao, Z.<sup>*</sup>**, Gao, F. (2019). [Multi-point iterative learning model predictive control](https://ieeexplore.ieee.org/abstract/document/8482502). _IEEE Transactions on Industrial Electronics_, 66(8), 6230-6240.
 
