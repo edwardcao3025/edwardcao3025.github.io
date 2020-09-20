@@ -57,9 +57,12 @@ bigimg: /img/Wuzhen1.png
 * 教授:
   * **中组部青年千人计划**
 
-
+### 科研基金
+国家自然科学基金面上项目 No. 62073137, 59万, 2021.1~2024.12, 主持
 
 ### 学术兼职
+  * 中国自动化学会过程控制专业委员会委员
+  * 浙江省在沪人才联合会理事
   * 塑料工程师协会会员
   * _Journal of Control Science and Engineering_ 客座编委
   * 担任审稿人于 _IEEE TAC, IEEE TIE, IEEE TBME, IEEE TCST, J Royal Soc Interface, J Process Contr, Ind Eng Chem Res, ISA T, Chemom Intell Lab Syst, Comput Chem Eng, Can J Chem Eng, Math Biosci, Algorithms, Processes, Sensors and Conferences CDC, ACC, IFAC WC._
