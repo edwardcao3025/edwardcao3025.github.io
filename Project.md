@@ -3,6 +3,9 @@ layout: page
 title: "研究项目"
 bigimg: /img/Wuzhen4.png
 ---
+### 基金
+国家自然科学基金面上项目 No. 62073137, 59万, 2021.1~2024.12 (主持）
+
 ### 定量探究mRNA聚合酶对于转录的动态影响
 <p align="center">
   <img src="/img/polymerase.png" alt="polymerase" width="500"/>
