@@ -62,6 +62,7 @@ bigimg: /img/Wuzhen1.png
 
 ### 学术兼职
   * 中国自动化学会过程控制专业委员会委员
+  * 中国自动化学会智能健康与生物信息专业委员会委员
   * 浙江省在沪人才联合会理事
   * 塑料工程师协会会员
   * _Journal of Control Science and Engineering_ 客座编委
